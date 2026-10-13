@@ -2,6 +2,7 @@
 
 > ⚠️ **Legal / ethical notice — read first**
 >
+>this client works on any server including hypixel, donutsmp, mcpvp.Do not use it in public games.
 > GhostSahoor includes features that impersonate another player's identity on a
 > server (see **Account Hijacking / `GetThisPlayer`** below), plus a full cheat
 > module set (combat assist, movement exploits, ESP, etc.).
